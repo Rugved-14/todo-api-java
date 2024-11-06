@@ -1,3 +1,4 @@
+@Author Rugved Gundawar
 # To-Do API
 
 A simple REST API for managing to-do items, built with Java and Spring Boot.
