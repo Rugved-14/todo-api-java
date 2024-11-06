@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - TodoApiApplication",
+            "request": "launch",
+            "mainClass": "com.example.todo.TodoApiApplication",
+            "projectName": "todo-api"
+        }
+    ]
+}
